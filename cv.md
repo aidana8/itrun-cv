@@ -5,4 +5,4 @@ Summary: I'd like to travel as much as I can. I'm 18 and I'm new at web-developm
 Skills: Newbie (HTML only)
 Experience: 
 Education: Finish high-school, student of university, participant of web-courses.
-English: Academic English with 3 years length.
+English: Academic English.
