@@ -1,14 +1,14 @@
-#####First Name: 
+##### First Name: 
 Aidana, Alybaeva
-#####Contact Info: 
+##### Contact Info: 
 +996559630555
  aidana241015@gmail.com
-#####Summary: 
+##### Summary: 
 I'd like to travel as much as I can. I'm 18 and I'm new at web-development, I would like to improve my skills and work as a freelancer.
-#####Skills:
+##### Skills:
 Newbie (HTML only)
-#####Experience: 
-#####Education:
+##### Experience: 
+##### Education:
 Finish high-school, student of university, participant of web-courses.
-#####English:
+##### English:
 Academic English.
