@@ -59,6 +59,7 @@ Newbie (HTML only)
                       </div>
                   
                   </section>
+                  gi
 ##### Education:
 Finish high-school, student of university, participant of web-courses.
 ##### English:
